@@ -2,7 +2,7 @@
   "name": "dev-con",
   "version": "1.0.0",
   "description": "Social network for developers",
-  "main": "server.js",
+  "main": "server.js",`
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
